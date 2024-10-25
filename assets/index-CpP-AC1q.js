@@ -36631,7 +36631,7 @@ const hc = 10 ** 18,
   qR = "0x0000000000000000000000000000000000000000",
   Mr = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
   HU = "0x9000000000000000000000000000000000000009",
-  f0 = "https://presale7-alpha.vercel.app/",
+  f0 = "https://api.solanex.ai",
   y5 = "https://statistics.solanex.ai",
   Zm = 1,
   _w = (e) => {
