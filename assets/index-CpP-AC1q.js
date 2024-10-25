@@ -66016,7 +66016,7 @@ const vTe = [
       i = yTe({
         version: 2,
         handleUri: (a) => console.warn(a, "walletconnect uri"),
-        projectId: "d2423ba732cce1398612959331709d36",
+        projectId: "12869ce876875bbe941fd1fdcc1d405a",
         requiredChains: [1],
         optionalChains: [56, 137, 42161],
         dappUrl: window.origin,
