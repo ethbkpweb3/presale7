@@ -38436,21 +38436,7 @@ const pc = 10 ** 18,
       "https://avax.meowrpc.com",
       "https://avalanche.public-rpc.com",
     ],
-    81457: [
-      "https://rpc.blast.io",
-      "https://blast-rpc.publicnode.com",
-      "https://blastl2-mainnet.public.blastapi.io",
-    ],
-    59144: ["https://1rpc.io/linea", "https://rpc.linea.build"],
-    324: [
-      "https://zksync.meowrpc.com",
-      "https://mainnet.era.zksync.io",
-      "https://zksync.drpc.org",
-    ],
-    11155111: [
-      "https://ethereum-sepolia.publicnode.com",
-      "https://eth-sepolia.public.blastapi.io",
-    ],
+
   },
   vSe = (e) => {
     const t = Math.floor(Math.random() * dM[e].length);
