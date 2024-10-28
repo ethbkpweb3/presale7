@@ -111267,7 +111267,7 @@ const bGe = Zr(
                                     : !A && O.networkName === sd.Solana
                                     ? "Connect Wallet"
                                     : F
-                                    ? `Minimum purchase is $$ 1`
+                                    ? `Minimum purchase is $${L}`
                                     : $
                                     ? "Insufficient balance"
                                     : b
@@ -111283,7 +111283,7 @@ const bGe = Zr(
                               loading: g || r,
                               children: m.jsx(m.Fragment, {
                                 children: F
-                                  ? `Minimum purchase is $$ 1`
+                                  ? `Minimum purchase is $${L}`
                                   : _
                                   ? g || r
                                     ? "Waiting for confirmation"
