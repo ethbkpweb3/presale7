@@ -36650,7 +36650,7 @@ const hc = 10 ** 18,
         : t.icon) || ""
     );
   },
-  Iy = [8453],
+  Iy = [1, 56, 137, 42161, 43114, 8453, 10, 81457, 59144, 324],
   M6e = [...Iy, 900],
   I6e = {
     idoStorage: {
@@ -36661,7 +36661,9 @@ const hc = 10 ** 18,
     nativeIdo: {
 
       8453: "0xeD468d495a70aD91D578ef15427061d17E5e4850",
-    
+      59144: "0xE7125f1fffD03D6EA75d65DEf34FB4330CFb3696",
+      81457: "0xE7125f1fffD03D6EA75d65DEf34FB4330CFb3696",
+      324: "0x649eB1DBe1D5D19B3F626AbbFB224BB1B0C04925",
     },
     tokenIdo: {
    
