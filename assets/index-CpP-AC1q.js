@@ -106284,7 +106284,7 @@ const QHe = Zr(
               Number(
                 Number(l == null ? void 0 : l.minAmount) / (Number(c) / 10)
               ) || 0;
-          r.dispatch(Yy({ minAmount: (u + 2).toFixed(2) }));
+          r.dispatch(Yy({ minAmount: (u + 0).toFixed(2) }));
         }
       } catch (a) {
         console.warn("ERROR in getNowPaymentAmounts", a);
