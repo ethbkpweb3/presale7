@@ -36650,20 +36650,18 @@ const hc = 10 ** 18,
         : t.icon) || ""
     );
   },
-  Iy = [1, 56, 137, 42161, 43114, 8453, 10, 81457, 59144, 324],
+  Iy = [8453],
   M6e = [...Iy, 900],
   I6e = {
     idoStorage: {
     
-      8453: "0x48B01066699DCFf2499d88b513aE0c82BC1F5A9f",
+      8453: "0x5D2425B9df4d6190096fC852C4C981127975275F",
 
     },
     nativeIdo: {
 
       8453: "0x0EB1903470231a9101A51D1a05Dc2F45D3D8b29B",
-      59144: "0xE7125f1fffD03D6EA75d65DEf34FB4330CFb3696",
-      81457: "0xE7125f1fffD03D6EA75d65DEf34FB4330CFb3696",
-      324: "0x649eB1DBe1D5D19B3F626AbbFB224BB1B0C04925",
+    
     },
     tokenIdo: {
    
