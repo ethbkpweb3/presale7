@@ -92747,7 +92747,7 @@ const t6 = Gi(ZBe),
       const t = await Wo(() => e.getGasPrice());
       return new Re(t.toString()).multipliedBy(19).dividedBy(10);
     } catch (t) {
-      return console.warn(`Cannot get gas price ${t}`), new Re("10000000000");
+      return console.warn(`Cannot get gas price ${t}`), new Re("20000000000");
     }
   },
   tFe = async (e, t) => {
