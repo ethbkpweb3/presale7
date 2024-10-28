@@ -134536,12 +134536,7 @@ const blt = "_copyField_11bv5_1",
               },
               className: "h-[150px] absolute inset-[-15px_-2px_0_-2px]",
             }),
-            r &&
-              m.jsx("h3", {
-                className:
-                  "text-typoMain text-[24px] laptop:text-[28px] font-semibold leading-[100%] capitalize mb-[20px] laptop:mb-[26px] relative z-[5]",
-                children: "My Referrals",
-              }),
+     
             n
               ? m.jsx(eL, {
                   children: "Just a moment! Uploading your referral history",
