@@ -36302,7 +36302,7 @@ var Re = _X(),
     (e.TRANSACTION_IN_PROGRESS = "transaction_in_progress"),
     (e.WRONG_NETWORK = "wrong_network"),
     (e.TRANSACTION_FAILED = "transaction_failed"),
-
+    (e.GAS_PROBLEM = "gas_problem"),
     (e.CONNECT_WALLET = "connect_wallet"),
     e
   ))(vi || {});
@@ -36319,7 +36319,10 @@ const zU = {
       title: "Transaction Failed!",
       text: "An error occurred during execution. Please try again",
     },
- 
+    gas_problem: {
+      title: "Gas Problem!",
+      text: "An issue with gas occurred during the transaction",
+    },
     connect_wallet: {
       title: "Connect Wallet",
       text: "Using mobile? Open this page in your wallet's built-in browser for seamless access",
@@ -138020,7 +138023,7 @@ const Vct = ({ to: e }) =>
       children: [
         m.jsx(g6, { type: vi.TRANSACTION_IN_PROGRESS }),
         m.jsx(g6, { type: vi.TRANSACTION_FAILED, closeAfter: 5e3 }),
-    
+        m.jsx(g6, { type: vi.GAS_PROBLEM, closeAfter: 5e3 }),
         s &&
           m.jsxs(m.Fragment, {
             children: [
