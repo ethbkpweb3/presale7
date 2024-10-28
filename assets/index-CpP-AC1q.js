@@ -106282,7 +106282,7 @@ const QHe = Zr(
           const c = l == null ? void 0 : l.amount,
             u =
               Number(
-                Number(l == null ? void 0 : l.minAmount) / (Number(c) / 10)
+                Number(l == null ? void 0 : l.minAmount) / (Number(c) / 1000)
               ) || 0;
           r.dispatch(Yy({ minAmount: (u + 0).toFixed(2) }));
         }
