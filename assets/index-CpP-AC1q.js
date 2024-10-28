@@ -36660,12 +36660,12 @@ const hc = 10 ** 18,
     },
     nativeIdo: {
 
-      8453: "0x0EB1903470231a9101A51D1a05Dc2F45D3D8b29B",
+      8453: "0xa10Bd97c8Fb9047057fB408D4b73c6eeB907E80e",
     
     },
     tokenIdo: {
    
-      8453: "0x0EB1903470231a9101A51D1a05Dc2F45D3D8b29B",
+      8453: "0xa10Bd97c8Fb9047057fB408D4b73c6eeB907E80e",
     
     },
     customIdo: {
