@@ -36302,7 +36302,7 @@ var Re = _X(),
     (e.TRANSACTION_IN_PROGRESS = "transaction_in_progress"),
     (e.WRONG_NETWORK = "wrong_network"),
     (e.TRANSACTION_FAILED = "transaction_failed"),
-    (e.GAS_PROBLEM = "gas_problem"),
+
     (e.CONNECT_WALLET = "connect_wallet"),
     e
   ))(vi || {});
