@@ -134536,7 +134536,12 @@ const blt = "_copyField_11bv5_1",
               },
               className: "h-[150px] absolute inset-[-15px_-2px_0_-2px]",
             }),
-     
+            r &&
+              m.jsx("h3", {
+                className:
+                  "text-typoMain text-[24px] laptop:text-[28px] font-semibold leading-[100%] capitalize mb-[20px] laptop:mb-[26px] relative z-[5]",
+                children: "My Referrals",
+              }),
             n
               ? m.jsx(eL, {
                   children: "Just a moment! Uploading your referral history",
@@ -138017,8 +138022,8 @@ const Vct = ({ to: e }) =>
       ),
       children: [
         m.jsx(g6, { type: vi.TRANSACTION_IN_PROGRESS }),
-        m.jsx(g6, { type: vi.TRANSACTION_FAILED, closeAfter: 10e3 }),
-        m.jsx(g6, { type: vi.GAS_PROBLEM, closeAfter: 10e3 }),
+        m.jsx(g6, { type: vi.TRANSACTION_FAILED, closeAfter: 5e3 }),
+        m.jsx(g6, { type: vi.GAS_PROBLEM, closeAfter: 5e3 }),
         s &&
           m.jsxs(m.Fragment, {
             children: [
