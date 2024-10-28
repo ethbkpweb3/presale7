@@ -36655,7 +36655,7 @@ const hc = 10 ** 18,
   I6e = {
     idoStorage: {
     
-      8453: "0x5D2425B9df4d6190096fC852C4C981127975275F",
+      8453: "0x41358F9BebcD2B615689DF9bd00C56d9da12D75B",
 
     },
     nativeIdo: {
