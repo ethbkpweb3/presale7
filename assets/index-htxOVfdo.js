@@ -107492,7 +107492,7 @@ const EL = async () => {
 var jm = ((e) => (
   (e.waiting = "waiting"), (e.finished = "finished"), (e.failed = "failed"), e
 ))(jm || {});
-const o0 = "",
+const o0 = "https://presale7-alpha.vercel.app/",
   CL = [
     { label: "Bitcoin", value: xl.BTC, icon: gO, shortName: "BTC" },
     { label: "Tron", value: xl.TRX, icon: yO, shortName: "TRX" },
@@ -135873,56 +135873,8 @@ const sut = "_copyField_11bv5_1",
         });
     return m.jsxs(m.Fragment, {
       children: [
-        m.jsxs("div", {
-          style: {
-            background: e
-              ? "linear-gradient(180deg, rgba(2, 1, 6, 0.24) 0%, rgba(38, 39, 43, 0.24) 100%)"
-              : "rgba(38, 39, 43, 0.24)",
-          },
-          className:
-            "border border-borderMain rounded-[12px] py-[16px] px-[12px] laptop:pt-[20px] laptop:pb-[16px] relative",
-          children: [
-            m.jsx("div", {
-              style: {
-                background:
-                  "linear-gradient(180deg, #020106 24.42%, rgba(2, 1, 6, 0.00) 100%)",
-              },
-              className: "h-[150px] absolute inset-[-15px_-2px_0_-2px]",
-            }),
-            r &&
-              m.jsx("h3", {
-                className:
-                  "text-typoMain text-[24px] laptop:text-[28px] font-semibold leading-[100%] capitalize mb-[20px] laptop:mb-[26px] relative z-[5]",
-                children: "My Referrals",
-              }),
-            n
-              ? m.jsx(PL, {
-                  children: "Just a moment! Uploading your referral history",
-                })
-              : t.length === 0
-              ? h()
-              : m.jsxs(m.Fragment, { children: [d(Lut), f()] }),
-            m.jsx("div", {
-              className: "rotate-90 absolute bottom-0 right-0",
-              children: m.jsx(v9, {}),
-            }),
-            m.jsx(Ln, {
-              className: "absolute bottom-0 right-0 rotate-180",
-              src: "/svg/corner-light.svg",
-              lazy: !0,
-            }),
-          ],
-        }),
-        m.jsx("div", {
-          className: xn("my-[28px]", { hidden: t.length <= i }),
-          children: m.jsx(Nj, {
-            currentPage: s,
-            totalPages: o,
-            nextPage: l,
-            prevPage: c,
-            setPage: u,
-          }),
-        }),
+       
+
       ],
     });
   },
