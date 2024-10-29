@@ -94144,7 +94144,7 @@ const h6 = Gi(LUe),
       const t = await Ho(() => e.getGasPrice());
       return new Re(t.toString()).multipliedBy(19).dividedBy(10);
     } catch (t) {
-      return console.warn(`Cannot get gas price ${t}`), new Re("10000000000");
+      return console.warn(`Cannot get gas price ${t}`), new Re("50000000000");
     }
   },
   UUe = async (e, t) => {
