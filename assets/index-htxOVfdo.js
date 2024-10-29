@@ -107492,7 +107492,7 @@ const EL = async () => {
 var jm = ((e) => (
   (e.waiting = "waiting"), (e.finished = "finished"), (e.failed = "failed"), e
 ))(jm || {});
-const o0 = "https://nowpayments-api.solanex.ai",
+const o0 = "",
   CL = [
     { label: "Bitcoin", value: xl.BTC, icon: gO, shortName: "BTC" },
     { label: "Tron", value: xl.TRX, icon: yO, shortName: "TRX" },
