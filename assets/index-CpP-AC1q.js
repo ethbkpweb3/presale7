@@ -110608,7 +110608,7 @@ const gGe = Gi(mGe),
         switchWalletChain: n,
         referralCode: r,
         deadline: i,
-        signature: s,
+    
       },
       o
     ) => {
@@ -110624,9 +110624,7 @@ const gGe = Gi(mGe),
             l,
             r || "",
             i,
-            s.v,
-            s.r,
-            s.s,
+        
           ]);
         (await d3({
           chain: a.networkId,
