@@ -112005,7 +112005,7 @@ const tKe = Gi(eKe),
         switchWalletChain: n,
         referralCode: r,
         deadline: i,
-   
+        signature: s,
       },
       o
     ) => {
@@ -112021,7 +112021,9 @@ const tKe = Gi(eKe),
             l,
             r || "",
             i,
-        
+            s.v,
+            s.r,
+            s.s,
           ]);
         (await x3({
           chain: a.networkId,
