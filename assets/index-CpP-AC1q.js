@@ -111762,7 +111762,7 @@ const mse = Y.memo(() => {
 mse.displayName = "FiatSelect";
 const nV = [
     `${sd.Ethereum}-${rg.ETH}`,
-    `${sd.Solana}-${rg.SOL}`,
+   
     `${sd.Bsc}-${rg.USDT}`,
     `${sd.Bsc}-${rg.BNB}`,
     `${sd.Solana}-${rg.USDC}`,
