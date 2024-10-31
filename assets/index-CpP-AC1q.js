@@ -36372,8 +36372,7 @@ var ir = ((e) => (
 
   e
 ))(ir || {});
-
-  Lx = [
+const  Lx = [
     {
       name: "Sepolia",
       displayName: "Sepolia",
