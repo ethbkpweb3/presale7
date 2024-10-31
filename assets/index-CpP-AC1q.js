@@ -137868,7 +137868,7 @@ const Vct = ({ to: e }) =>
       name: "How It Works",
       icon: "/svg/howItWorks.svg",
     },
-    { path: Fr.leaderboard, name: "Leaderboard", icon: "/svg/leaderboard.svg" },
+   
   ],
   rut = ({ closeMobileMenu: e }) =>
     m.jsxs(m.Fragment, {
