@@ -71721,7 +71721,7 @@ const tMe = Gi(Im),
       to: "/",
       children: m.jsx("img", {
         className: "max-w-[48px] laptop:max-w-[124px]",
-        src: e ? "/svg/logo-mobile.jpg" : "logo-mobile.jpg",
+        src:  "/svg/logoNova.svg",
         alt: "logo",
       }),
     });
@@ -71733,7 +71733,7 @@ const tMe = Gi(Im),
       to: "/",
       children: m.jsx("img", {
         className: "max-w-[48px] laptop:max-w-[124px]",
-        src: e ? "/svg/logo-mobile.jpg" : "logo-mobile.jpg",
+        src: e ? "/svg/logo-mobile.jpg" : "/svg/logo.svg",
         alt: "logo",
       }),
     });
