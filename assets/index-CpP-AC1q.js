@@ -71733,7 +71733,7 @@ const tMe = Gi(Im),
       to: "/",
       children: m.jsx("img", {
         className: "max-w-[48px] laptop:max-w-[124px]",
-        src: e ? "/svg/logo-mobile.svg" : "/svg/logo.svg",
+        src: e ? "/svg/logo-mobile.jpg" : "/svg/logo.svg",
         alt: "logo",
       }),
     });
