@@ -36372,14 +36372,7 @@ var ir = ((e) => (
 
   e
 ))(ir || {});
-const AX = {
-    name: "Solana",
-    displayName: "Solana",
-    icon: mv,
-    shortName: "SOL",
-    networkId: 900,
-    nativeSymbol: "SOL",
-  },
+
   Lx = [
     {
       name: "Sepolia",
@@ -37060,7 +37053,7 @@ const hc = 10 ** 18,
     59144: "https://lineascan.build/tx/",
     324: "https://explorer.zksync.io/tx/",
     11155111: "https://sepolia.etherscan.io/tx/",
-    900: "https://explorer.solana.com/tx/",
+  
   },
   P6e = {
     1: new Re("300000000"),
