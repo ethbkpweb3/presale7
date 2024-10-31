@@ -139395,8 +139395,7 @@ const Hdt = Gye([
         { path: Fr.tokenomics, element: m.jsx(Tdt, {}) },
         { path: Fr.referral, element: m.jsx(Zut, {}) },
         { path: Fr.how_it_works, element: m.jsx(hdt, {}) },
-        { path: Fr.leaderboard, element: m.jsx(Jut, {}) },
-      ],
+       
     },
     {
       path: Fr.audit,
