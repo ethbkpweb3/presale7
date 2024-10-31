@@ -36373,7 +36373,12 @@ var ir = ((e) => (
   e
 ))(ir || {});
 const AX = {
-
+    name: "Solana",
+    displayName: "Solana",
+    icon: _6e,
+    shortName: "SOL",
+    networkId: 900,
+    nativeSymbol: "SOL",
   },
   Lx = [
     {
@@ -38508,7 +38513,14 @@ const mu = [
   gv = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   q6e = "Solana:Usdc",
   K6e = "Solana:Usdt",
-
+  Y6e = {
+    name: "Solana",
+    displayName: "Solana",
+    icon: mv,
+    shortName: DT,
+    networkId: ir.solana,
+    nativeSymbol: DT,
+  },
 
   v1 = "processed",
   RX = "https://solana-rpc.publicnode.com",
