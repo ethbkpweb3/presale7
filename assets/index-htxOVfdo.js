@@ -73118,7 +73118,7 @@ const UIe = Gi(Om),
       to: "/",
       children: m.jsx("img", {
         className: "max-w-[48px] laptop:max-w-[124px]",
-        src: e ? "/svg/logo-mobile.svg" : "/svg/logoNova.svg",
+        src: e ? "/svg/logomain.png" : "/svg/logomain.png",
         alt: "logo",
       }),
     });
@@ -73130,7 +73130,7 @@ const UIe = Gi(Om),
       to: "/",
       children: m.jsx("img", {
         className: "max-w-[48px] laptop:max-w-[124px]",
-        src: e ? "/svg/logo-mobile.svg" : "/svg/logo.svg",
+        src: e ? "/svg/logomain.png" : "/svg/logomain.png",
         alt: "logo",
       }),
     });
@@ -139175,7 +139175,7 @@ const Idt = ({ to: e }) =>
       name: "How It Works",
       icon: "/svg/howItWorks.svg",
     },
-    { path: Fr.leaderboard, name: "Leaderboard", icon: "/svg/leaderboard.svg" },
+
   ],
   zdt = ({ closeMobileMenu: e }) =>
     m.jsxs(m.Fragment, {
