@@ -129298,6 +129298,7 @@ const oat = sat,
                                 preload: "auto",
                                 width: "300",
                                 autoPlay: !0,
+                                borderRadius:"20px",
                                 loop: !0,
                                 muted: !0,
                                 children: [
