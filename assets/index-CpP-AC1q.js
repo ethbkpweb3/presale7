@@ -36338,7 +36338,7 @@ const zU = {
   Ox = "/svg/assets/opt.svg",
   Px = "/svg/assets/pol.svg",
   k8 = "/svg/assets/zk.svg",
-  mv = "/svg/assets/sol.svg",
+ 
   jR = "/svg/assets/btc.svg",
   DR = "/svg/assets/trx.svg",
   BR = "/svg/assets/ton.svg",
@@ -36372,15 +36372,7 @@ var ir = ((e) => (
 
   e
 ))(ir || {});
-const AX = {
-    name: "Solana",
-    displayName: "Solana",
-    icon: mv,
-    shortName: "SOL",
-    networkId: 900,
-    nativeSymbol: "SOL",
-  },
-  Lx = [
+const   Lx = [
     {
       name: "Sepolia",
       displayName: "Sepolia",
@@ -116378,7 +116370,7 @@ class zet extends pv {
         t = (
           await At(async () => {
             const { default: s } = await import(
-              "./solanaEmbd.esm-XgTVzOa-.js"
+              "./solanaEmbed.esm-XgTVzOa-.js"
             );
             return { default: s };
           }, __vite__mapDeps([12, 6, 7, 9]))
