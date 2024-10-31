@@ -128209,7 +128209,7 @@ const oat = sat,
           symbol: "SOL",
           value: "+ 11.21%",
           color: "text-[#15B79E]",
-          imgSrc: "/svg/sossslana.svg",
+          imgSrc: "/svg/solana.svg",
         },
         {
           symbol: "HELIUM",
