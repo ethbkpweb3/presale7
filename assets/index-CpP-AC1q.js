@@ -36375,7 +36375,7 @@ var ir = ((e) => (
 const AX = {
     name: "Solana",
     displayName: "Solana",
-    icon: msv,
+    icon: ci,
     shortName: "SOL",
     networkId: 900,
     nativeSymbol: "SOL",
