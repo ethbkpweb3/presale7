@@ -38514,14 +38514,14 @@ const mu = [
   q6e = "Solana:Usdc",
   K6e = "Solana:Usdt",
   Y6e = {
-    name: "Solana",
+    name: "Solanaddd",
     displayName: "Solana",
     icon: mv,
     shortName: DT,
     networkId: ir.solana,
     nativeSymbol: DT,
   },
-  Sw = { address: "", symbol: DT, name: "Solana", icon: mv, decimals: YR },
+  Sw = { address: "", symbol: DT, name: "Solanaddd", icon: mv, decimals: YR },
   Qg = [
     Sw,
     { address: y1, symbol: "USDT", name: "USDT", icon: Fs, decimals: 6 },
@@ -74160,7 +74160,7 @@ var kc = ((e) => (
     e
   ))(kb || {}),
   Yee = ((e) => ((e.date = "date"), e))(Yee || {}),
-  wo = ((e) => ( (e[(e.evm = 1)] = "evm"), e))(
+  wo = ((e) => ((e[(e.solana = 0)] = "solana"), (e[(e.evm = 1)] = "evm"), e))(
     wo || {}
   );
 const yIe = "logger/5.7.0";
