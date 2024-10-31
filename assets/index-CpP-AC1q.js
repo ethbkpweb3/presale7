@@ -36373,8 +36373,8 @@ var ir = ((e) => (
   e
 ))(ir || {});
 const AX = {
-    name: "Soddlana",
-    displayName: "Solanddda",
+    name: "Solana",
+    displayName: "Solana",
     icon: mv,
     shortName: "SOL",
     networkId: 900,
@@ -128381,7 +128381,7 @@ const oat = sat,
                               children: m.jsx("img", {
                                 className:
                                   "laptop:w-full laptop:h-full w-[16px]",
-                                src: "/svg/solana.svg",
+                                src: "/svg/soddlana.svg",
                                 alt: "",
                               }),
                             }),
