@@ -111763,6 +111763,7 @@ mse.displayName = "FiatSelect";
 const nV = [
     `${sd.Ethereum}-${rg.ETH}`,
    `${sd.Ethereum}-${rg.USDC}`,
+   `${sd.Ethereum}-${rg.USDT}`,
     `${sd.Bsc}-${rg.USDT}`,
     `${sd.Bsc}-${rg.BNB}`,
     `${sd.Solana}-${rg.USDC}`,
