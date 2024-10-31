@@ -129294,7 +129294,7 @@ const oat = sat,
                                 src: "/images/chip.png",
                                 alt: "chip",
                               })
-                            : m.jsxs("video", {
+                            : m.jsxs("img", {
                                 preload: "auto",
                                 width: "300",
                                 autoPlay: !0,
@@ -129303,7 +129303,7 @@ const oat = sat,
                                 children: [
                                   m.jsx("source", {
                                     src: "/videos/Chainlinker_effect.gif",
-                                    type: "video/gif",
+                                    type: "video/webm",
                                   }),
                                   "Your browser does not support the video tag.",
                                 ],
