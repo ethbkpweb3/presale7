@@ -111475,7 +111475,7 @@ const bGe = Zr(
           displayName: "All Chains",
           shortName: "All Chains",
         },
-        Y6e,
+    
         ...WU,
       ],
       x = (S) => {
