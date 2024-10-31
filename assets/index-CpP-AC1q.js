@@ -130722,7 +130722,7 @@ const oat = sat,
           className: "text-center",
           children: "Next-Generation Trading with Solanex AI",
         }),
-        m.jsx(Lat, {}),
+     
         m.jsx(Fc, {
           children: m.jsx("div", {
             className:
