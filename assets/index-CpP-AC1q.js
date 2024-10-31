@@ -37138,7 +37138,7 @@ var xl = ((e) => (
     (e.Linea = "Linea"),
     (e.ZkSync = "ZkSync"),
     (e.Blast = "Blast"),
-    (e.Solana = "Solana"),
+  
     (e.Bitcoin = "Bitcoin"),
     (e.Cardano = "Cardano"),
     (e.Ripple = "Ripple"),
@@ -37176,7 +37176,7 @@ var xl = ((e) => (
     (e.BUSDC = "BUSDC"),
     (e.BCH = "BCH"),
     (e.TON = "TON"),
-    (e.SOL = "SOL"),
+  
     e
   ))(rg || {});
 const mu = [
@@ -37735,41 +37735,9 @@ const mu = [
       coinId: 1,
       blockchainType: gn.EVM,
     },
-    {
-      id: "Solana-SOL",
-      networkName: "Solana",
-      address: "",
-      name: "SOL",
-      shortName: "SOL",
-      symbol: "SOL",
-      icon: mv,
-      coinId: 900,
-      blockchainType: gn.SOL,
-    },
-    {
-      id: "Solana-USDT",
-      networkName: "Solana",
-      address: "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      shortName: "USDT",
-      name: "USDT",
-      symbol: "USDT",
-      icon: Fs,
-      decimals: 6,
-      coinId: 900,
-      blockchainType: gn.SOL,
-    },
-    {
-      id: "Solana-USDC",
-      networkName: "Solana",
-      address: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      shortName: "USDC",
-      name: "USDC",
-      symbol: "USDC",
-      icon: ci,
-      decimals: 6,
-      coinId: 900,
-      blockchainType: gn.SOL,
-    },
+    
+
+
     {
       id: "Tron-USDT",
       networkName: "Tron",
