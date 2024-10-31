@@ -38516,7 +38516,7 @@ const mu = [
   Y6e = {
     name: "Solana",
     displayName: "Solana",
-    icon: mv,
+
     shortName: DT,
     networkId: ir.solana,
     nativeSymbol: DT,
