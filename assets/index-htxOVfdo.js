@@ -113161,7 +113161,7 @@ const poe = Y.memo(() => {
 poe.displayName = "FiatSelect";
 const UV = [
     `${od.Ethereum}-${ag.ETH}`,
-    `${od.Solana}-${ag.SOL}`,
+   
     `${od.Bsc}-${ag.USDT}`,
     `${od.Bsc}-${ag.BNB}`,
     `${od.Solana}-${ag.USDC}`,
