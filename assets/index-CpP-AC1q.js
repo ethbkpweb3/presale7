@@ -92822,9 +92822,7 @@ const iFe = (e) =>
         return m.jsx("img", { src: Tx, alt: "avax" });
       case ir.sepolia:
         return m.jsx("img", { src: Sc, alt: "eth" });
-      case ir.solana:
-      case -1:
-        return m.jsx("img", { src: mv, alt: "sol" });
+ 
       case ir.blast:
         return m.jsx("img", { src: Ix, alt: "blast" });
       case ir.linea:
