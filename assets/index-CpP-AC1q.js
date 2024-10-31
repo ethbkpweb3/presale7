@@ -36369,7 +36369,7 @@ var ir = ((e) => (
   (e[(e.zksync = 324)] = "zksync"),
   (e[(e.linea = 59144)] = "linea"),
   (e[(e.blast = 81457)] = "blast"),
-  (e[(e.solana = 900)] = "solana"),
+
   e
 ))(ir || {});
 const AX = {
@@ -111734,7 +111734,7 @@ const nV = [
    `${sd.Ethereum}-${rg.USDT}`,
     `${sd.Bsc}-${rg.USDT}`,
     `${sd.Bsc}-${rg.BNB}`,
-    `${sd.Solana}-${rg.USDC}`,
+   
   ],
   PGe = (e) =>
     e ? mu.find((t) => (t == null ? void 0 : t.nowPaymentsId) === e) : void 0,
@@ -129234,7 +129234,7 @@ const oat = sat,
                   children: [
                     m.jsx("span", { children: "Built on" }),
                     m.jsx(vat, {}),
-                    m.jsx("span", { children: "Solana" }),
+                    m.jsx("span", { children: "Ethereum" }),
                   ],
                 }),
               }),
@@ -133473,7 +133473,7 @@ const blt = "_copyField_11bv5_1",
       }),
     }),
   Olt = { evm: "/svg/assets/eth.svg", sol: "/svg/assets/sol.svg" },
-  Plt = { evm: "evm wallet", sol: "solana wallet" },
+  Plt = { evm: "evm wallet"},
   dq = ({ type: e }) => {
     const {
         address: t,
