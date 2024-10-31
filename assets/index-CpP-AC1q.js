@@ -36372,14 +36372,7 @@ var ir = ((e) => (
 
   e
 ))(ir || {});
-const AX = {
-    name: "Solana",
-    displayName: "Solana",
-    icon: _6e,
-    shortName: "SOL",
-    networkId: 900,
-    nativeSymbol: "SOL",
-  },
+
   Lx = [
     {
       name: "Sepolia",
