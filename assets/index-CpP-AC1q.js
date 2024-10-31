@@ -74192,7 +74192,7 @@ var kc = ((e) => (
     e
   ))(kb || {}),
   Yee = ((e) => ((e.date = "date"), e))(Yee || {}),
-  wo = ((e) => ( (e[(e.evm = 1)] = "evm"), e))(
+  wo = ((e) => ((e[(e.solana = 0)] = "solana"), (e[(e.evm = 1)] = "evm"), e))(
     wo || {}
   );
 const yIe = "logger/5.7.0";
