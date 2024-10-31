@@ -73458,7 +73458,7 @@ const aIe = () =>
         children: [
           m.jsx("img", {
             className: "ml-[auto] mr-[auto]",
-            src: "/svg/footer.jpg",
+            src: "/svg/footerLogo.svg",
             alt: "logo",
           }),
           m.jsxs("div", {
@@ -129302,8 +129302,8 @@ const oat = sat,
                                 muted: !0,
                                 children: [
                                   m.jsx("source", {
-                                    src: "/videos/ChipSolanex.webm",
-                                    type: "video/webm",
+                                    src: "/videos/Chainlinker_effect.gif",
+                                    type: "video/gif",
                                   }),
                                   "Your browser does not support the video tag.",
                                 ],
