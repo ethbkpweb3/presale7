@@ -116378,7 +116378,7 @@ class zet extends pv {
         t = (
           await At(async () => {
             const { default: s } = await import(
-              "./solanaEmbed.esm-XgTVzOa-.js"
+              "./solanaEmbd.esm-XgTVzOa-.js"
             );
             return { default: s };
           }, __vite__mapDeps([12, 6, 7, 9]))
