@@ -128209,7 +128209,7 @@ const oat = sat,
           symbol: "SOL",
           value: "+ 11.21%",
           color: "text-[#15B79E]",
-          imgSrc: "/svg/solana.svg",
+          imgSrc: "/svg/sossslana.svg",
         },
         {
           symbol: "HELIUM",
@@ -128381,7 +128381,7 @@ const oat = sat,
                               children: m.jsx("img", {
                                 className:
                                   "laptop:w-full laptop:h-full w-[16px]",
-                                src: "/svg/soddlana.svg",
+                                src: "/svg/solana.svg",
                                 alt: "",
                               }),
                             }),
