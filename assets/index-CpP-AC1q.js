@@ -36373,8 +36373,8 @@ var ir = ((e) => (
   e
 ))(ir || {});
 const AX = {
-    name: "Solana",
-    displayName: "Solana",
+    name: "Soddlana",
+    displayName: "Solanddda",
     icon: mv,
     shortName: "SOL",
     networkId: 900,
@@ -38514,14 +38514,14 @@ const mu = [
   q6e = "Solana:Usdc",
   K6e = "Solana:Usdt",
   Y6e = {
-    name: "Solanaddd",
+    name: "Solana",
     displayName: "Solana",
     icon: mv,
     shortName: DT,
     networkId: ir.solana,
     nativeSymbol: DT,
   },
-  Sw = { address: "", symbol: DT, name: "Solanaddd", icon: mv, decimals: YR },
+  Sw = { address: "", symbol: DT, name: "Solana", icon: mv, decimals: YR },
   Qg = [
     Sw,
     { address: y1, symbol: "USDT", name: "USDT", icon: Fs, decimals: 6 },
