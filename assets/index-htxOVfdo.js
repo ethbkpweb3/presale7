@@ -113876,7 +113876,7 @@ const xKe = "_animateSpin_1sxgk_1",
               children: [
                 m.jsx("img", {
                   className: "max-h-[26px]",
-                  src: "/images/home/roadmap/3-active.webp",
+                  src: "/svg/icon.jpg",
                 }),
                 "Buy",
               ],
@@ -129386,7 +129386,7 @@ const Vlt = Wlt,
             "Launch the mobile app",
             "Connect with external DeFi protocols and enhance security",
           ],
-          activeImg: "/images/home/roadmap/3-active.webp",
+          activeImg: "/svg/icon.jpg",
           staticImg: "/images/home/roadmap/3.webp",
           title: "Expansion",
           time: "Q1-Q2 2025",
@@ -132916,7 +132916,7 @@ const Vlt = Wlt,
                     src: "/svg/chain.jpg",
                     alt: "liquidity-pool",
                     style: {
-                      width: "107px",
+                      width: "137px",
             
                   }
                   }),
