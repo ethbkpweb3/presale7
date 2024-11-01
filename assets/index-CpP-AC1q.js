@@ -129298,11 +129298,12 @@ const oat = sat,
                                 preload: "auto",
                                 width: "300",
                                 autoPlay: !0,
+                                borderRadius:"20px",
                                 loop: !0,
                                 muted: !0,
                                 children: [
                                   m.jsx("source", {
-                                    src: "/videos/ChipSolanex.webm",
+                                    src: "/videos/chain.webm",
                                     type: "video/webm",
                                   }),
                                   "Your browser does not support the video tag.",
@@ -130721,7 +130722,7 @@ const oat = sat,
           className: "text-center",
           children: "Next-Generation Trading with ChainLinker AI",
         }),
-        m.jsx(Lat, {}),
+     
         m.jsx(Fc, {
           children: m.jsx("div", {
             className:
