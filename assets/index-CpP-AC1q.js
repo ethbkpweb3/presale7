@@ -131461,7 +131461,7 @@ const oat = sat,
                     className: "mt-[22px] laptop:mt-[35] relative z-[2]",
                     src: "/svg/chain.jpg",
                     alt: "liquidity-pool",    style: {
-                      width: "57px",
+                      width: "107px",
                      
                   }
                   }),
