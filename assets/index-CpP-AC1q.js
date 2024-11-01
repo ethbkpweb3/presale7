@@ -131460,7 +131460,11 @@ const oat = sat,
                   m.jsx("img", {
                     className: "mt-[22px] laptop:mt-[35] relative z-[2]",
                     src: "/svg/chain.jpg",
-                    alt: "liquidity-pool",
+                    alt: "liquidity-pool",    style: {
+                      width: "27px",
+                      marginLeft: "10px",
+                      marginRight: "10px"
+                  }
                   }),
                   !n &&
                     m.jsxs(m.Fragment, {
