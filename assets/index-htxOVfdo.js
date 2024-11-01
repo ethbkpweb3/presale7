@@ -37746,7 +37746,7 @@ const C$ = {
   Hx = "/svg/assets/opt.svg",
   Wx = "/svg/assets/pol.svg",
   V8 = "/svg/assets/zk.svg",
-  Sv = "/svg/assets/sol.svg",
+  Sv = "/svg/assets/favicon.jpg",
   gO = "/svg/assets/btc.svg",
   yO = "/svg/assets/trx.svg",
   vO = "/svg/assets/ton.svg",
@@ -130681,7 +130681,12 @@ const Vlt = Wlt,
                     "py-[4px] laptop:py-[14px] px-[24px] flex items-center gap-[8px] bg-[#1A1A1E] text-[#5D6B98] text-[12px] laptop:text-[16px] font-semibold leading-[24px] rounded-[42px]",
                   children: [
                     m.jsx("span", { children: "Built on" }),
-                    m.jsx(rct, {}),
+                  
+                     m.jsx("img", {
+                                className: "max-w-[300px]",
+                                src: Sv,
+                                alt: "chip",
+                              }),
                     m.jsx("span", { children: "Solana" }),
                   ],
                 }),
