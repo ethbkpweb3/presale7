@@ -36616,7 +36616,7 @@ const AX = {
       nativeSymbol: "ETH",
     },
   ],
-  $n = "SOLDEX",
+  $n = "CHAINLINKER",
   HR = !1;
 const hc = 10 ** 18,
   hC = 10 * 1,
