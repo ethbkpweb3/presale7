@@ -109104,7 +109104,7 @@ const na = UVe({
               children: [
                 m.jsx("img", {
                   className: "w-[16px] h-[16px]",
-                  src: "/svg/sdx-outlined.svg",
+                  src: "/svg/tokenlogo.svg",
                   alt: "sdx",
                 }),
                 m.jsx("span", { className: Gn.symbol, children: $n }),
@@ -117250,7 +117250,7 @@ const Vet = ({ children: e }) => {
               children: [
                 m.jsx("img", {
                   className: "w-[16px] h-[16px]",
-                  src: "/svg/sdx-outlined.svg",
+                  src: "/svg/tokenlogo.svg",
                   alt: "sdx",
                 }),
                 m.jsx("span", { className: DV.symbol, children: $n }),

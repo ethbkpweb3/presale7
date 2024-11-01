@@ -110540,7 +110540,7 @@ const na = Aqe({
               children: [
                 m.jsx("img", {
                   className: "w-[16px] h-[16px]",
-                  src: "/svg/sdx-outlined.svg",
+                  src: "/svg/tokenlogo.svg",
                   alt: "sdx",
                 }),
                 m.jsx("span", { className: Gn.symbol, children: $n }),
@@ -118748,7 +118748,7 @@ const Int = ({ children: e }) => {
               children: [
                 m.jsx("img", {
                   className: "w-[16px] h-[16px]",
-                  src: "/svg/sdx-outlined.svg",
+                  src: "/svg/tokenlogo.svg",
                   alt: "sdx",
                 }),
                 m.jsx("span", { className: xG.symbol, children: $n }),
