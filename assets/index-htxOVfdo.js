@@ -132913,7 +132913,7 @@ const Vlt = Wlt,
                     }),
                   m.jsx("img", {
                     className: "mt-[22px] laptop:mt-[35] relative z-[2]",
-                    src: "/svg/chip.svg",
+                    src: "/svg/chain.jpg",
                     alt: "liquidity-pool",
                   }),
                   !n &&
