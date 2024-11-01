@@ -132917,8 +132917,8 @@ const Vlt = Wlt,
                     alt: "liquidity-pool",
                     style: {
                       width: "27px",
-                      marginLeft: "10px",
-                      marginRight: "10px"
+                      marginLeft: "50px",
+                      marginRight: "50px"
                   }
                   }),
                   !n &&
