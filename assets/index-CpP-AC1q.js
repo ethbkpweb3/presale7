@@ -73458,7 +73458,7 @@ const aIe = () =>
         children: [
           m.jsx("img", {
             className: "ml-[auto] mr-[auto]",
-            src: "/svg/footerlogo.jpg",
+            src: "/svg/footera.jpg",
             alt: "logo",
           }),
           m.jsxs("div", {
