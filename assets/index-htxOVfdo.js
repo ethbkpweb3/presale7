@@ -38024,7 +38024,7 @@ const EJ = {
       nativeSymbol: "ETH",
     },
   ],
-  $n = "SOLDEX",
+  $n = "ChainLinker",
   EO = !1;
 const pc = 10 ** 18,
   BC = 10 * 1,
