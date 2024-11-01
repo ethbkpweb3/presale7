@@ -132916,7 +132916,7 @@ const Vlt = Wlt,
                     src: "/svg/chain.jpg",
                     alt: "liquidity-pool",
                     style: {
-                      width: "57px",
+                      width: "107px",
             
                   }
                   }),
