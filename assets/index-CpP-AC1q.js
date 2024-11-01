@@ -129227,9 +129227,13 @@ const oat = sat,
                   children: [
                     m.jsx("span", { children: "Built on" }),
                     m.jsx("img", {
-                      className: "max-w-[300px]",
+                      className: "max-w-[30px]",
                       src: mv,
                       alt: "chip",
+                           style: {
+                                width: "30px",
+                                                         
+                                                                }
                     }),
                     m.jsx("span", { children: "Ethereum" }),
                   ],
