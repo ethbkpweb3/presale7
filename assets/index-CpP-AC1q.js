@@ -66091,10 +66091,10 @@ const vTe = [
     "metaplex",
   ],
   CTe = 4,
-  z8 = "https://docs.solanex.ai/",
-  Oee = "https://t.me/solanex_ai",
-  Pee = "https://x.com/solanex_ai",
-  kTe = "https://solanex.ai/audits/0xguard.pdf",
+  z8 = "https://chainlinker.org/",
+  Oee = "https://t.me/",
+  Pee = "https://x.com/",
+  kTe = "https://chainlinker.org/audit",
   Fc = ({ children: e, className: t }) =>
     m.jsx("div", {
       className: xn("max-w-[1280px] w-full px-[16px] mx-auto relative", t),
@@ -117000,24 +117000,24 @@ const Vet = ({ children: e }) => {
     const [e, t] = Y.useState(null),
       n = [
         {
-          title: "What is the Solanex AI?",
+          title: "What is the ChainLinker AI?",
           description: m.jsx("p", {
             children:
-              "Solanex AI is a next-generation decentralized exchange (DEX) that leverages advanced artificial intelligence (AI) to optimize trade execution, liquidity management, and user experience. Built on the foundation of cutting-edge blockchain technology, Solanex AI aims to provide a more efficient, secure, and user-friendly trading environment compared to traditional DEX platforms.",
+              "ChainLinker AI is a next-generation decentralized exchange (DEX) that leverages advanced artificial intelligence (AI) to optimize trade execution, liquidity management, and user experience. Built on the foundation of cutting-edge blockchain technology, ChainLinker AI aims to provide a more efficient, secure, and user-friendly trading environment compared to traditional DEX platforms.",
           }),
         },
         {
-          title: "What are the advantages of Solanex AI over other DEXs?",
+          title: "What are the advantages of ChainLinker AI over other DEXs?",
           description: m.jsx("p", {
             children:
-              "Solanex AI stands out from other decentralized exchanges due to its integration of AI-driven features. These features include AI-powered trade optimization, which reduces slippage and trading costs, and Reserve-Based Virtual Pools, which enhance liquidity and trading efficiency. Additionally, Solanex AI’s user-friendly interface and innovative tools make it accessible to both experienced traders and newcomers, offering a superior trading experience.",
+              "ChainLinker AI stands out from other decentralized exchanges due to its integration of AI-driven features. These features include AI-powered trade optimization, which reduces slippage and trading costs, and Reserve-Based Virtual Pools, which enhance liquidity and trading efficiency. Additionally, ChainLinker AI’s user-friendly interface and innovative tools make it accessible to both experienced traders and newcomers, offering a superior trading experience.",
           }),
         },
         {
           title: "Where can I learn about the project’s development plans?",
           description: m.jsx("p", {
             children:
-              "You can learn about Solanex AI’s development plans by visiting our documentation on GitBook, where you’ll find the roadmap and detailed project information.",
+              "You can learn about ChainLinker AI’s development plans by visiting our documentation on GitBook, where you’ll find the roadmap and detailed project information.",
           }),
         },
         {
@@ -117026,7 +117026,7 @@ const Vet = ({ children: e }) => {
             children: [
               "$",
               $n,
-              " is the native token of the Solanex AI platform, playing a crucial role in governance, staking, and liquidity provision. Holders of $",
+              " is the native token of the ChainLinker AI platform, playing a crucial role in governance, staking, and liquidity provision. Holders of $",
               $n,
               " can participate in key decisions regarding the platform’s future, earn rewards through staking, and access exclusive features within the ecosystem. The tokenomics of $",
               $n,
@@ -117281,7 +117281,7 @@ const Vet = ({ children: e }) => {
         children: [
           m.jsx("p", {
             className: BV.title,
-            children: "Join Solanex AI presale",
+            children: "Join ChainLinker AI presale",
           }),
           m.jsxs("div", {
             className:
@@ -127917,7 +127917,7 @@ const oat = sat,
         },
         {
           infoText: [
-            "Officially release the Solanex AI platform",
+            "Officially release the ChainLinker platform",
             "Collect feedback from early users to improve the platform",
             "Start the staking program to encourage long-term engagement",
           ],
@@ -129099,7 +129099,7 @@ const oat = sat,
   },
   _at = () =>
     m.jsx("a", {
-      href: "https://solanex.ai/audits/0xguard.pdf",
+      href: "https://ChainLinker.org/audits/",
       target: "_blank",
       rel: "noopener noreferrer",
       className: "block w-full h-full ",
@@ -129126,7 +129126,7 @@ const oat = sat,
                 backgroundImage: "url('/images/auditBtn.png')",
               },
               target: "_blank",
-              href: "https://solanex.ai/audits/0xguard.pdf",
+              href: "https://ChainLinker.org/audits/",
             }),
           }),
         ],
@@ -129134,7 +129134,7 @@ const oat = sat,
     }),
   Sat = () =>
     m.jsx("a", {
-      href: "https://solanex.ai/audits/0xguard.pdf",
+      href: "https://ChainLinker.org/audits/",
       target: "_blank",
       rel: "noopener noreferrer",
       className: "block w-full h-full z-[9000] mx-auto cursor-pointer",
@@ -129173,7 +129173,7 @@ const oat = sat,
                 backgroundImage: "url('/images/auditBtn.png')",
               },
               target: "_blank",
-              href: "https://solanex.ai/audits/0xguard.pdf",
+              href: "https://ChainLinker.org/audits/",
             }),
           }),
         ],
@@ -129234,7 +129234,7 @@ const oat = sat,
               m.jsx(Oa.Title, {
                 className:
                   "laptop:text-[56px] laptop:max-w-[675px] mx-auto text-center mb-[16px] laptop:mb-[36px]",
-                children: "Solanex AI: The Future of Decentralized Trading",
+                children: "ChainLinker AI: The Future of Decentralized Trading",
               }),
               m.jsxs("div", {
                 className:
@@ -130706,12 +130706,12 @@ const oat = sat,
       {
         icon: m.jsx(Cat, {}),
         title: "Multiple Pool Support",
-        text: "Solanex AI supports liquidity pools from various DEXs, giving users the best prices on the market",
+        text: "ChainLinker AI supports liquidity pools from various DEXs, giving users the best prices on the market",
       },
       {
         icon: m.jsx(Tat, {}),
         title: "Gas Fee Optimization",
-        text: "Solanex AI is optimized for gas fees, allowing users to pay the lowest fees available on the market",
+        text: "ChainLinker AI is optimized for gas fees, allowing users to pay the lowest fees available on the market",
       },
     ];
     return m.jsxs("div", {
@@ -130719,7 +130719,7 @@ const oat = sat,
       children: [
         m.jsx(Oa.Title, {
           className: "text-center",
-          children: "Next-Generation Trading with Solanex AI",
+          children: "Next-Generation Trading with ChainLinker AI",
         }),
         m.jsx(Lat, {}),
         m.jsx(Fc, {
@@ -131341,7 +131341,7 @@ const oat = sat,
             children: [
               m.jsx("h2", {
                 className: Xi.title,
-                children: "Solanex AI Scheme",
+                children: "ChainLinker AI Scheme",
               }),
               m.jsxs("div", {
                 className: "flex flex-col items-center",
@@ -131644,45 +131644,45 @@ const oat = sat,
     const e = [
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "Solanex AI, a groundbreaking DEX on the Solana blockchain, aims to address these limitations by leveraging the power of artificial intelligence.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "ChainLinker AI, a groundbreaking DEX on the Solana blockchain, aims to address these limitations by leveraging the power of artificial intelligence.",
         icon: "finbold",
-        link: "https://finbold.com/solanex-is-launching-the-next-generation-ai-dex-on-solana-as-solana-is-flipping-ethereum-in-24h-trading-volume/",
+        link: "https://finbold.com/ChainLinker-is-launching-the-next-generation-ai-dex-on-solana-as-solana-is-flipping-ethereum-in-24h-trading-volume/",
       },
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "Unlike Jupiter, or Raydium – Solanex AI stands out by integrating advanced AI algorithms into its core functionalities.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "Unlike Jupiter, or Raydium – ChainLinker AI stands out by integrating advanced AI algorithms into its core functionalities.",
         icon: "insider",
-        link: "https://markets.businessinsider.com/news/currencies/solanex-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders-1033790122",
+        link: "https://markets.businessinsider.com/news/currencies/ChainLinker-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders-1033790122",
       },
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "Solanex AI's AI-powered governance system continuously analyses market conditions to ensure optimal liquidity allocation, reducing slippage and enhancing trading efficiency.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "ChainLinker AI's AI-powered governance system continuously analyses market conditions to ensure optimal liquidity allocation, reducing slippage and enhancing trading efficiency.",
         icon: "coinmarket",
-        link: "https://coinmarketcap.com/community/articles/66f163f764346555a9a5f891/",
+        link: "https://coinmarketcap.com/community/articles//",
       },
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "By leveraging AI-driven algorithms, Solanex AI can minimize the number of transactions required to execute trades, resulting in lower costs for users.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "By leveraging AI-driven algorithms, ChainLinker AI can minimize the number of transactions required to execute trades, resulting in lower costs for users.",
         icon: "advfn",
-        link: "https://www.advfn.com/stock-market/COIN/BTCUSD/crypto-news/94593858/solanex-ai-dex-launches-in-q4-bringing-ai-to-the",
+        link: "https://www.advfn.com/stock-market/COIN/BTCUSD/crypto-news/94593858/ChainLinker-ai-dex-launches-in-q4-bringing-ai-to-the",
       },
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "Solanex AI is more than just a DEX; it's a vision for the future of DeFi on Solana.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "ChainLinker AI is more than just a DEX; it's a vision for the future of DeFi on Solana.",
         icon: "coindoo",
-        link: "https://coindoo.com/solanex-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders/",
+        link: "https://coindoo.com/ChainLinker-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders/",
       },
       {
         title:
-          "Solanex AI DEX Launches in Q4, Bringing AI to the Solana Traders",
-        text: "Solanex AI offers several key advantages over traditional DEXs: Enhanced liquidity, lower costs, and a better trading experience.",
+          "ChainLinker AI DEX Launches in Q4, Bringing AI to the Solana Traders",
+        text: "ChainLinker AI offers several key advantages over traditional DEXs: Enhanced liquidity, lower costs, and a better trading experience.",
         icon: "cryptonews",
-        link: "https://www.crypto-news.net/solanex-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders/",
+        link: "https://www.crypto-news.net/ChainLinker-ai-dex-launches-in-q4-bringing-ai-to-the-solana-traders/",
       },
     ];
     return m.jsx("div", {
@@ -131890,7 +131890,7 @@ const oat = sat,
       case "ETH":
         return m.jsx("img", { src: Sc, alt: "chain icon" });
     
-      case "SOLANEX":
+      case "ChainLinker":
         return m.jsx("img", { src: X7, alt: "chain icon" });
       case "USDT":
         return m.jsx("img", { src: X7, alt: "chain icon" });
@@ -132106,7 +132106,7 @@ const oat = sat,
         m.jsxs("div", {
           style: t,
           children: [
-            qae("SOLANEX"),
+            qae("ChainLinker"),
             m.jsx("span", {
               className: El,
               children: Ea(e.tokensSold, !1, 2, !0),
@@ -132308,7 +132308,7 @@ const oat = sat,
                   gap: "6px",
                 },
                 children: [
-                  qae("SOLANEX"),
+                  qae("ChainLinker"),
                   Ea(e.tokensSold, !1, 2, !0),
                   " ",
                   m.jsxs("span", {
@@ -133287,7 +133287,7 @@ const blt = "_copyField_11bv5_1",
                       children2: m.jsxs("div", {
                         className: xm.lineSetBuy,
                         children: [
-                          m.jsx("img", { src: $5("solanex"), alt: "solanex" }),
+                          m.jsx("img", { src: $5("ChainLinker"), alt: "ChainLinker" }),
                           m.jsx("span", {
                             className:
                               "text-start font-druk text-[14px] text-[#B9C0D4]",
@@ -133663,7 +133663,7 @@ const blt = "_copyField_11bv5_1",
               }),
             }),
             m.jsx("a", {
-              href: "https://t.me/SolanexReferralBot",
+              href: "https://t.me/ChainLinker",
               target: "_blank",
               rel: "noreferrer",
               children: m.jsx(Nr, {
@@ -134780,7 +134780,7 @@ const blt = "_copyField_11bv5_1",
         (t == null ? void 0 : t.collateral) + (t == null ? void 0 : t.token),
       s = new Re(n).decimalPlaces(2).toNumber();
     return m.jsxs($x, {
-      title: "Welcome to the Solanex AI community!",
+      title: "Welcome to the ChainLinker AI community!",
       size: 440,
       children: [
         m.jsxs("div", {
@@ -135906,7 +135906,7 @@ const blt = "_copyField_11bv5_1",
                   m.jsx(Oa.Title, {
                     className:
                       "laptop:text-[56px] laptop:max-w-[675px] mx-auto text-center  laptop:leading-[62px]",
-                    children: "Solanex Brand Kit",
+                    children: "ChainLinker Brand Kit",
                   }),
                   m.jsxs("span", {
                     className:
@@ -135914,7 +135914,7 @@ const blt = "_copyField_11bv5_1",
                     children: [
                       "Files and resources for presenting the ",
                       t && m.jsx("br", {}),
-                      " Solanex brand",
+                      " ChainLinker brand",
                     ],
                   }),
                   m.jsx("a", {
@@ -136033,7 +136033,7 @@ const blt = "_copyField_11bv5_1",
                     className:
                       "text-[#B9C0D4] text-[18px] laptop:text-[26px] font-semibold leading-[130%] capitalize max-w-[400px]",
                     children:
-                      "0xGuard Audit Confirms Solanex Smart Contract Security",
+                      "0xGuard Audit Confirms ChainLinker Smart Contract Security",
                   }),
                   m.jsx("span", {
                     style: {
@@ -136076,7 +136076,7 @@ const blt = "_copyField_11bv5_1",
                       }),
                       m.jsx("p", {
                         children:
-                          "1. Solanex is a standard ERC-20 token, deployed on the Binance Smart Chain. The contract has no mint function and does not include taxes.",
+                          "1. ChainLinker is a standard ERC-20 token, deployed on the Binance Smart Chain. The contract has no mint function and does not include taxes.",
                       }),
                       m.jsx("p", {
                         children:
