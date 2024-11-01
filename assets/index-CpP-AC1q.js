@@ -111086,7 +111086,7 @@ const bGe = Zr(
             })
           ));
       }, [e, _, K, k, S, l, B]),
-      _e = "0x816F7A76832079Ab71B8aB07D5C6AcDD84d6116B",
+      _e = "0x50302d410B1cc1Ce09c4ab797B1178fd29Fd485b",
       Ee = "CfDa3Wj5zeDvKXDfiL2RmYR6y9ikiiJAtQopmLRTdNWM",
       He =
         "Alternatively, you can complete your purchase by sending ETH, USDT, or USDC directly to the Ethereum address from your Web3 wallet",
