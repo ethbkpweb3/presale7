@@ -116987,36 +116987,7 @@ const Het = () => {
                             ],
                           }),
                         }),
-                        m.jsx("button", {
-                          className: xn(
-                            jV,
-                            "flex items-center justify-center gap-[4px] h-[40px] w-[95px]"
-                          ),
-                          style: {
-                            background: i === 0 ? "#6A56F629" : "#FFFFFF05",
-                          },
-                          onClick: () => {
-                            s(0);
-                          },
-                          children: m.jsxs("div", {
-                            style: {
-                              display: "flex",
-                              alignItems: "center",
-                              flexDirection: "row",
-                              gap: "6px",
-                            },
-                            children: [
-                              m.jsx("img", { src: $5("solana"), alt: "[]" }),
-                              m.jsx("span", {
-                                className: xn("text-[14px] font-[600]"),
-                                style: {
-                                  color: i === 0 ? "#FFFFFF" : "#B9C0D4",
-                                },
-                                children: "Solana",
-                              }),
-                            ],
-                          }),
-                        }),
+     
                       ],
                     }),
                   }),
