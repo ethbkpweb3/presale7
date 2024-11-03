@@ -38548,7 +38548,7 @@ const mu = [
   Y6e = {
     name: "Solana",
     displayName: "Solana",
-    icon: ci,
+    icon: mv,
     shortName: DT,
     networkId: ir.solana,
     nativeSymbol: DT,
@@ -111516,7 +111516,7 @@ const bGe = Zr(
           displayName: "All Chains",
           shortName: "All Chains",
         },
-        Y6e,
+     
         ...WU,
       ],
       x = (S) => {
