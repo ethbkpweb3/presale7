@@ -37742,7 +37742,7 @@ const mu = [
       name: "SOL",
       shortName: "SOL",
       symbol: "SOL",
-      icon: mv,
+      icon: ci,
       coinId: 900,
       blockchainType: gn.SOL,
     },
