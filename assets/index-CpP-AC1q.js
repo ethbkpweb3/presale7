@@ -36338,7 +36338,7 @@ const zU = {
   Ox = "/svg/assets/opt.svg",
   Px = "/svg/assets/pol.svg",
   k8 = "/svg/assets/zk.svg",
-  mv = "/svg/assets/sol.svg",
+  mv = "/svg/asets/sol.svg",
   jR = "/svg/assets/btc.svg",
   DR = "/svg/assets/trx.svg",
   BR = "/svg/assets/ton.svg",
@@ -36372,7 +36372,14 @@ var ir = ((e) => (
   (e[(e.solana = 900)] = "solana"),
   e
 ))(ir || {});
-const 
+const AX = {
+    name: "Solana",
+    displayName: "Solana",
+    icon: mv,
+    shortName: "SOL",
+    networkId: 900,
+    nativeSymbol: "SOL",
+  },
   Lx = [
     {
       name: "Sepolia",
