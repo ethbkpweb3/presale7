@@ -116729,41 +116729,8 @@ const Wet = ({ children: e }) => {
                               )
                             ),
                         u &&
-                          m.jsx("div", {
-                            className:
-                              "flex flex-col bg-[#1e1d22] rounded-full gap-[6px]",
-                            children: m.jsxs("div", {
-                              className:
-                                "grid grid-cols-[1fr_0.6fr] rounded-[12px] shadow-border ",
-                              children: [
-                                m.jsx("div", {
-                                  className:
-                                    "flex w-full gap-[6px] items-center p-[8px] rounded-[12px]",
-                                  children: m.jsxs("span", {
-                                    className:
-                                      "text-[#B9C0D4] text-[14px] not-italic font-semibold leading-[100%]",
-                                    children: [
-                                      "Not connected ",
-                                      m.jsx("span", {
-                                        className: "text-[#b9c0d46b]",
-                                        children: "Solana",
-                                      }),
-                                    ],
-                                  }),
-                                }),
-                                m.jsx(Nr, {
-                                  className:
-                                    "!px-[12px] !py-[8px] !rounded-full",
-                                  size: "32",
-                                  onClick: () => {
-                                    p(), f();
-                                  },
-                                  children: "Connect",
-                                }),
-                              ],
-                            }),
-                          }),
-                        d &&
+ 
+                         
                           m.jsx("div", {
                             className:
                               "flex flex-col bg-[#1e1d22] rounded-full gap-[6px]",
