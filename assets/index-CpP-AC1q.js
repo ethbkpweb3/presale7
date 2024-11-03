@@ -37742,7 +37742,7 @@ const mu = [
       name: "SOL",
       shortName: "SOL",
       symbol: "SOL",
-      icon: ci,
+      icon: mv,
       coinId: 900,
       blockchainType: gn.SOL,
     },
@@ -38548,7 +38548,7 @@ const mu = [
   Y6e = {
     name: "Solana",
     displayName: "Solana",
-    icon: mv,
+    icon: ci,
     shortName: DT,
     networkId: ir.solana,
     nativeSymbol: DT,
